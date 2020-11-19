@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../Stock-tracker">
+      <sourceFolder url="file://$MODULE_DIR$/../Stock-tracker/tests" isTestSource="true" packagePrefix="Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/../Stock-tracker/database/seeders" isTestSource="false" packagePrefix="Database\Seeders\" />
+      <sourceFolder url="file://$MODULE_DIR$/../Stock-tracker/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../Stock-tracker/app" isTestSource="false" packagePrefix="App\" />
+      <sourceFolder url="file://$MODULE_DIR$/../Stock-tracker/database/factories" isTestSource="false" packagePrefix="Database\Factories\" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/asm89/stack-cors" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/brick/math" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/dnoegel/php-xdg-base-dir" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/dragonmantank/cron-expression" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/egulias/email-validator" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/facade/flare-client-php" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/facade/ignition" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/facade/ignition-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/fakerphp/faker" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/fideloper/proxy" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/filp/whoops" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/fruitcake/laravel-cors" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/graham-campbell/result-type" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/guzzlehttp/guzzle" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/guzzlehttp/promises" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/guzzlehttp/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/hamcrest/hamcrest-php" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/laravel/framework" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/laravel/tinker" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/league/commonmark" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/league/flysystem" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/league/mime-type-detection" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/mockery/mockery" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/myclabs/deep-copy" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/nesbot/carbon" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/nunomaduro/collision" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/opis/closure" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/phar-io/manifest" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/phar-io/version" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/phpdocumentor/reflection-common" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/phpdocumentor/reflection-docblock" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/phpdocumentor/type-resolver" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/phpoption/phpoption" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/phpspec/prophecy" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/phpunit/php-code-coverage" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/phpunit/php-file-iterator" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/phpunit/php-invoker" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/phpunit/php-text-template" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/phpunit/php-timer" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/phpunit/phpunit" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/psr/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/psr/http-client" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/psy/psysh" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/ralouphie/getallheaders" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/ramsey/collection" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/ramsey/uuid" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/sebastian/cli-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/sebastian/code-unit" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/sebastian/code-unit-reverse-lookup" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/sebastian/comparator" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/sebastian/complexity" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/sebastian/environment" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/sebastian/exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/sebastian/global-state" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/sebastian/lines-of-code" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/sebastian/object-enumerator" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/sebastian/object-reflector" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/sebastian/recursion-context" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/sebastian/resource-operations" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/sebastian/type" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/sebastian/version" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/swiftmailer/swiftmailer" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/symfony/css-selector" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/symfony/error-handler" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/symfony/event-dispatcher-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/symfony/http-client-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/symfony/mime" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/symfony/polyfill-iconv" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/symfony/polyfill-intl-grapheme" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/symfony/polyfill-intl-idn" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/symfony/polyfill-intl-normalizer" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/symfony/polyfill-php72" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/symfony/polyfill-php73" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/symfony/process" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/symfony/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/symfony/string" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/symfony/translation" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/symfony/translation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/theseer/tokenizer" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/tijsverkoyen/css-to-inline-styles" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/vlucas/phpdotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/voku/portable-ascii" />
+      <excludeFolder url="file://$MODULE_DIR$/../Stock-tracker/vendor/webmozart/assert" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
