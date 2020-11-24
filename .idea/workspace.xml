@@ -1,17 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a263abb1-dda5-4837-8d98-d5e33d908e68" name="Default Changelist" comment="" />
+    <list default="true" id="a263abb1-dda5-4837-8d98-d5e33d908e68" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/php-test-framework.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Clients/BestBuy.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Clients/Client.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Clients/ClientException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Clients/ClientFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Clients/StockStatus.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Clients/Target.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Model.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Models/History.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Models/Product.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Models/Retailer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Models/Stock.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Notifications/ImportantStockUpdate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/UseCases/TrackStock.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/migrations/2020_11_24_122953_create_history_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/seeders/RetailerWithProductSeeder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Clients/BestBuyTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Feature/TrackCommandTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Integration/TrackStockTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Unit/ProductHistoryTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Unit/ProductTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Stock-API.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Stock-API.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Providers/EventServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/EventServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/services.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/services.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpunit.xml" beforeDir="false" afterPath="$PROJECT_DIR$/phpunit.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Feature/ExampleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/TestCase.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/TestCase.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Unit/ExampleTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Unit/StockTest.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
-    <execution />
+    <execution>
+      <executable path="composer" />
+    </execution>
   </component>
-  <component name="PhpWorkspaceProjectConfiguration">
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/composer" />
       <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
@@ -118,24 +180,77 @@
       <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
       <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
       <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/react/promise" />
+      <path value="$PROJECT_DIR$/vendor/justinrainbow/json-schema" />
+      <path value="$PROJECT_DIR$/vendor/barryvdh/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/barryvdh/laravel-ide-helper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/vendor/seld/phar-utils" />
+      <path value="$PROJECT_DIR$/vendor/seld/jsonlint" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
     </include_path>
   </component>
   <component name="ProjectId" id="1kViu04raE9BAS0kJXsWkWVI6uJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.jetbrains.php.phpunit.codeGeneration.PhpNewTestDialog.defaultLibrary" value="PHPUnit" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tests/Unit" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHPUnit.tests">
+    <configuration name="StockTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Tests\Unit\StockTest" configuration_file="$PROJECT_DIR$/phpunit.xml" file="$PROJECT_DIR$/tests/Unit/StockTest.php" scope="Class" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TrackCommandTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Tests\Feature\TrackCommandTest" configuration_file="$PROJECT_DIR$/phpunit.xml" file="$PROJECT_DIR$/tests/Feature/TrackCommandTest.php" scope="Class" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TrackCommandTest.testItNotifiesTheUserWhenTheStockChangesInANotableWay" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Tests\Feature\TrackCommandTest" configuration_file="$PROJECT_DIR$/phpunit.xml" file="$PROJECT_DIR$/tests/Feature/TrackCommandTest.php" method="testItNotifiesTheUserWhenTheStockChangesInANotableWay" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TrackStockTest.testItNotifiesTheUser" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Tests\Integration\TrackStockTest" configuration_file="$PROJECT_DIR$/phpunit.xml" file="$PROJECT_DIR$/tests/Integration/TrackStockTest.php" method="testItNotifiesTheUser" scope="Method" />
+      <method v="2" />
+    </configuration>
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner scope="XML" />
       <method v="2" />
     </configuration>
+    <configuration name="tests" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner configuration_file="$PROJECT_DIR$/phpunit.xml" directory="$PROJECT_DIR$/tests" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.tests" />
+        <item itemvalue="PHPUnit.StockTest" />
+        <item itemvalue="PHPUnit.TrackStockTest.testItNotifiesTheUser" />
+        <item itemvalue="PHPUnit.TrackCommandTest" />
+        <item itemvalue="PHPUnit.TrackCommandTest.testItNotifiesTheUserWhenTheStockChangesInANotableWay" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -146,10 +261,100 @@
       <option name="presentableId" value="Default" />
       <updated>1605792377613</updated>
       <workItem from="1605792378636" duration="170000" />
+      <workItem from="1605792620808" duration="4215000" />
+      <workItem from="1605859599285" duration="20000" />
+      <workItem from="1606146983549" duration="2875000" />
+      <workItem from="1606209657683" duration="14072000" />
+      <workItem from="1606230323057" duration="9552000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="642" y="180" width="700" height="759" key="#PHP" timestamp="1605794278264">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="642" y="180" width="700" height="759" key="#PHP/72.27.1848.1053/1920.0.1280.1024@72.27.1848.1053" timestamp="1605794278264" />
+    <state x="591" y="215" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606220298293">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="591" y="215" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.27.1848.1053/1920.0.1280.1024@72.27.1848.1053" timestamp="1606220298293" />
+    <state x="804" y="272" width="412" height="576" key="#com.intellij.ide.util.MemberChooser" timestamp="1606238286339">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="804" y="272" width="412" height="576" key="#com.intellij.ide.util.MemberChooser/72.27.1848.1053/1920.0.1280.1024@72.27.1848.1053" timestamp="1606238286339" />
+    <state x="755" y="349" width="525" height="423" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1606212618809">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="755" y="349" width="525" height="423" key="#com.intellij.ide.util.TreeClassChooserDialog/72.27.1848.1053/1920.0.1280.1024@72.27.1848.1053" timestamp="1606212618809" />
+    <state x="729" y="311" width="524" height="491" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1606237256873">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="729" y="311" width="524" height="491" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/72.27.1848.1053/1920.0.1280.1024@72.27.1848.1053" timestamp="1606237256873" />
+    <state x="784" y="331" width="414" height="452" key="#com.jetbrains.php.refactoring.extractMethod.PhpExtractMethodDialog#method0" timestamp="1606239682553">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="784" y="331" width="414" height="452" key="#com.jetbrains.php.refactoring.extractMethod.PhpExtractMethodDialog#method0/72.27.1848.1053/1920.0.1280.1024@72.27.1848.1053" timestamp="1606239682553" />
+    <state x="784" y="259" width="414" height="595" key="#com.jetbrains.php.refactoring.extractMethod.PhpExtractMethodDialog#method1" timestamp="1606218238960">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="784" y="259" width="414" height="595" key="#com.jetbrains.php.refactoring.extractMethod.PhpExtractMethodDialog#method1/72.27.1848.1053/1920.0.1280.1024@72.27.1848.1053" timestamp="1606218238960" />
+    <state x="769" y="398" width="444" height="318" key="#com.jetbrains.php.refactoring.pullPush.pullUp.PhpPullUpDialog#1" timestamp="1606234219472">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="769" y="398" width="444" height="318" key="#com.jetbrains.php.refactoring.pullPush.pullUp.PhpPullUpDialog#1/72.27.1848.1053/1920.0.1280.1024@72.27.1848.1053" timestamp="1606234219472" />
+    <state x="729" y="468" width="523" height="178" key="ComposerInitDialogKey" timestamp="1605794626685">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="729" y="468" width="523" height="178" key="ComposerInitDialogKey/72.27.1848.1053/1920.0.1280.1024@72.27.1848.1053" timestamp="1605794626685" />
+    <state width="1802" height="275" key="GridCell.Tab.0.bottom" timestamp="1606240431558">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="275" key="GridCell.Tab.0.bottom/72.27.1848.1053/1920.0.1280.1024@72.27.1848.1053" timestamp="1606240431558" />
+    <state width="1802" height="275" key="GridCell.Tab.0.center" timestamp="1606240431558">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="275" key="GridCell.Tab.0.center/72.27.1848.1053/1920.0.1280.1024@72.27.1848.1053" timestamp="1606240431558" />
+    <state width="1802" height="275" key="GridCell.Tab.0.left" timestamp="1606240431558">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="275" key="GridCell.Tab.0.left/72.27.1848.1053/1920.0.1280.1024@72.27.1848.1053" timestamp="1606240431558" />
+    <state width="1802" height="275" key="GridCell.Tab.0.right" timestamp="1606240431558">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="275" key="GridCell.Tab.0.right/72.27.1848.1053/1920.0.1280.1024@72.27.1848.1053" timestamp="1606240431558" />
+    <state x="714" y="273" width="625" height="596" key="NewPhpClassDialog" timestamp="1606236616653">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="714" y="273" width="625" height="596" key="NewPhpClassDialog/72.27.1848.1053/1920.0.1280.1024@72.27.1848.1053" timestamp="1606236616653" />
+    <state x="485" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1606230394612">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="485" y="188" width="1022" height="737" key="SettingsEditor/72.27.1848.1053/1920.0.1280.1024@72.27.1848.1053" timestamp="1606230394612" />
+    <state x="654" y="294" width="808" height="526" key="com.jetbrains.php.test.PhpNewTestDialog" timestamp="1606237732345">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="654" y="294" width="808" height="526" key="com.jetbrains.php.test.PhpNewTestDialog/72.27.1848.1053/1920.0.1280.1024@72.27.1848.1053" timestamp="1606237732345" />
+    <state x="659" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1606240376516">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="659" y="259" width="672" height="678" key="search.everywhere.popup/72.27.1848.1053/1920.0.1280.1024@72.27.1848.1053" timestamp="1606240376516" />
   </component>
 </project>
